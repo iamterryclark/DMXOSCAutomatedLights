@@ -1,0 +1,2 @@
+﻿  ofApp.cpp
+src\ofApp.cpp(182): error C2146: syntax error: missing ';' before identifier 'm'
